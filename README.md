@@ -34,3 +34,12 @@ You can install the required packages with:
 ```bash
 pip install pandas matplotlib scikit-learn
 
+## How to Run
+
+1. Download the `Reviews.csv` file from the Kaggle dataset and place it in the same folder as the notebook `amazon_sentiment.ipynb`.  
+2. Open the notebook using Jupyter Notebook, JupyterLab, or Google Colab.  
+3. Run the cells sequentially to follow the full data analysis, preprocessing, model training, and evaluation.  
+
+## Results
+
+The trained model achieves approximately 90% accuracy in classifying positive and negative reviews, demonstrating the potential of simple text classification techniques in sentiment analysis.
