@@ -29,11 +29,6 @@ The dataset is sourced from [Kaggle - Amazon Fine Food Reviews](https://www.kagg
 - matplotlib  
 - scikit-learn  
 
-You can install the required packages with:
-
-```bash
-pip install pandas matplotlib scikit-learn
-
 ## How to Run
 
 1. Download the `Reviews.csv` file from the Kaggle dataset and place it in the same folder as the notebook `amazon_sentiment.ipynb`.  
